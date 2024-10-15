@@ -1,0 +1,49 @@
+/*selectores(estilos)
+tipos de selectores
+1-Etiquetas h1,p
+2-Clase .+Nombre partes de un grupo de etiquetas
+3-Id #+nombre id que tiene una etiqueta*/
+
+body{
+background-color: pink;
+}
+.fondoverde{
+background-color:green ;
+}
+h2{
+    background-color:aqua ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#tituloprincipal{
+    background-color: greenyellow;
+    width: 400px; 
+    height: 50px; ;
+    display: inline-block;
+}
+button{
+    display: block;
+    background-color: burlywood;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.botongris{
+    background-color: gray;
+}
+#perro{
+    width: 400px;
+}
+.texto2{
+    width: 35%;
+    height: 40vh;
+}
+#textounico{
+background-image: url(./Imagenes/pepi-stojanovski-MJSFNZ8BAXw-unsplash.jpg);
+}
+ul{
+    background-color: blueviolet;
+    width: 50%;
+}
+li{
+    background-color: chocolate;
+    
+}
